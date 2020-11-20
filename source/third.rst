@@ -1,6 +1,6 @@
 .. _third:
 
-Welcome to third!
+Third!
 ============================================
 
 .. toctree::
